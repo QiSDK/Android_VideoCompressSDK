@@ -1,25 +1,3 @@
-pluginManagement {
-    repositories {
-        gradlePluginPortal()
-        google()
-        mavenCentral()
-        jcenter()
-        maven {
-            url "https://jitpack.io"
-        }
-    }
-}
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        google()
-        mavenCentral()
-        jcenter()
-        maven {
-            url "https://jitpack.io"
-        }
-    }
-}
-rootProject.name = "TeneasyChatSdk"
-include ':app'
-include ':teneasyChatSDK_Android'
+
+include ':compressor', ':exampleapp'
+rootProject.name = "AndroidMediaCompressor"
