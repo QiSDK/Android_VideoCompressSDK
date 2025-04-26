@@ -1,24 +1,26 @@
 *安卓视频压缩，集成文档*
 
 
-**引用SDK：**
+
+**添加依赖**
 ```
+implementation 'com.arthenica:ffmpeg-kit-full:6.0'
+```
+
+**引用SDK：(git 方式)**
+```
+
 repositories {
-   mavenCentral()
-……
-   maven {
-       url "https://jitpack.io"
-   }
+    mavenCentral()
+    google()
+    maven { url 'https://jitpack.io' }
 }
 
-implementation 'com.github.QiSDK:QiChatSDK_Android:1.5.3'
+dependencies {
+    implementation 'com.github.YourName:AndroidMediaCompressor:1.0.0'
+}
 ```
 
-
-**初始化SDK:**
-```
-
-```
 
 
 
