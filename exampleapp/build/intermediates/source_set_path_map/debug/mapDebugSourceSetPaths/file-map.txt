@@ -1,0 +1,9 @@
+com.example.exampleapp-jetified-ffmpeg-kit-full-6.0-0 /Users/white/.gradle/caches/transforms-4/0fdeaeb39642c4b375273abf455f6e2e/transformed/jetified-ffmpeg-kit-full-6.0/res
+com.example.exampleapp-debug-1 /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.exampleapp-pngs-2 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/generated/res/pngs/debug
+com.example.exampleapp-resValues-3 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/generated/res/resValues/debug
+com.example.exampleapp-packageDebugResources-4 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.exampleapp-packageDebugResources-5 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.exampleapp-debug-6 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.exampleapp-debug-7 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/debug/res
+com.example.exampleapp-main-8 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/res
