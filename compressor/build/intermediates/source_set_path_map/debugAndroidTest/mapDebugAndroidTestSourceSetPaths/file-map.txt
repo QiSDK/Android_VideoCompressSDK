@@ -1,0 +1,6 @@
+com.example.compressor.test.compressor-jetified-ffmpeg-kit-full-6.0-0 /Users/white/.gradle/caches/transforms-4/0fdeaeb39642c4b375273abf455f6e2e/transformed/jetified-ffmpeg-kit-full-6.0/res
+com.example.compressor.test.compressor-androidTest-1 /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/generated/res/resValues/androidTest/debug
+com.example.compressor.test.compressor-mergeDebugAndroidTestResources-2 /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.compressor.test.compressor-mergeDebugAndroidTestResources-3 /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.compressor.test.compressor-debugAndroidTest-4 /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.example.compressor.test.compressor-debug-5 /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/packaged_res/debug/packageDebugResources

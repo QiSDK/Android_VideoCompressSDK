@@ -1,2 +1,0 @@
-/Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/src/main/java/com/example/compressor/VideoCompressor.kt
-/Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/src/main/java/com/example/compressor/ImageCompressor.kt

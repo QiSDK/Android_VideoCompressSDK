@@ -1,0 +1,4 @@
+com.example.exampleapp.test.exampleapp-androidTest-0 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/generated/res/resValues/androidTest/debug
+com.example.exampleapp.test.exampleapp-mergeDebugAndroidTestResources-1 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.exampleapp.test.exampleapp-mergeDebugAndroidTestResources-2 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.exampleapp.test.exampleapp-debugAndroidTest-3 /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
