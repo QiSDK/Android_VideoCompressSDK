@@ -3,3 +3,4 @@ local
 id compressButton
 id resultText
 layout activity_main
+string compressor

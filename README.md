@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.YourName:AndroidMediaCompressor:1.0.0'
+    implementation 'https://github.com/QiSDK/Android_VideoCompressSDK.git'
 }
 ```
 
