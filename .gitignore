@@ -1,0 +1,19 @@
+# APK 和构建目录
+*.apk
+*.ap_
+/build/
+/app/build/
+/exampleapp/build/
+/compressor/build/
+
+# IntelliJ / Android Studio
+.idea
+*.iml
+.gradle
+local.properties
+
+# Mac
+.DS_Store
+
+# Git LFS
+*.lfs
