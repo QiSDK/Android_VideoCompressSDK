@@ -3,6 +3,7 @@
     package="com.example.exampleapp">
 
     <application
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
         android:allowBackup="true"
         android:label="Example App"
         android:supportsRtl="true"

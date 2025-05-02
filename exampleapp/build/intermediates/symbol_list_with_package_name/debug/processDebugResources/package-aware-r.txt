@@ -701,7 +701,9 @@ id checkbox
 id checked
 id chronometer
 id collapseActionView
-id compressButton
+id compressImageButton
+id compressVideoButton
+id compressedSizeText
 id content
 id contentPanel
 id custom
@@ -740,11 +742,11 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id originalSizeText
 id parentPanel
 id progress_circular
 id progress_horizontal
 id radio
-id resultText
 id right_icon
 id right_side
 id screen
@@ -761,6 +763,8 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id selectImageButton
+id selectVideoButton
 id select_dialog_listview
 id shortcut
 id showCustom

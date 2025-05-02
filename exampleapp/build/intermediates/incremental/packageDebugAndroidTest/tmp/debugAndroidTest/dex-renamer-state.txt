@@ -1,4 +1,4 @@
-#Wed Apr 30 18:18:35 EEST 2025
+#Fri May 02 10:01:31 EEST 2025
 base.0=/Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
 base.1=/Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/14/classes.dex
 path.0=0/classes.dex

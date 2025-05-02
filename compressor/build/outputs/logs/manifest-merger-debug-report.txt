@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest559969070628647180.xml:2:13-83
-INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest559969070628647180.xml:2:13-83
+ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest894872946169024166.xml:2:13-83
+INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest894872946169024166.xml:2:13-83
 	package
-		INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest559969070628647180.xml
+		INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest894872946169024166.xml
 	xmlns:android
-		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest559969070628647180.xml:2:23-81
+		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest894872946169024166.xml:2:23-81
 uses-sdk
-INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest559969070628647180.xml reason: use-sdk injection requested
-INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest559969070628647180.xml
-INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest559969070628647180.xml
+INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest894872946169024166.xml reason: use-sdk injection requested
+INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest894872946169024166.xml
+INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest894872946169024166.xml
 	android:targetSdkVersion
-		INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest559969070628647180.xml
+		INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest894872946169024166.xml
 	android:minSdkVersion
-		INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest559969070628647180.xml
+		INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest894872946169024166.xml

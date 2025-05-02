@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:2:1-22:12
-INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:2:1-22:12
+ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [:compressor] /Users/white/Downloads/VC/Android_VideoCompressSDK/compressor/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/white/.gradle/caches/transforms-4/2452774d22fd84d9789a0485dcffb6bb/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/white/.gradle/caches/transforms-4/b6abf2eb760be4d905b79fc0f5733975/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -44,8 +44,8 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/white/.gradle/cach
 	xmlns:android
 		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:5:5-20:19
-INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:5:5-20:19
+ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:5:5-21:19
+INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:5:5-21:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/white/.gradle/caches/transforms-4/5d5ab8e39c6cb8bdbb971862e0a22f44/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/white/.gradle/caches/transforms-4/5d5ab8e39c6cb8bdbb971862e0a22f44/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.9.0] /Users/white/.gradle/caches/transforms-4/c697c0d0a6455f5a97db375f62915fe8/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
@@ -61,27 +61,29 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/whit
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/white/.gradle/caches/transforms-4/c697c0d0a6455f5a97db375f62915fe8/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:7:9-36
+		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:8:9-36
 	android:allowBackup
-		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:6:9-67
 activity#com.example.exampleapp.MainActivity
-ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:11:9-18:20
+ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:12:9-19:20
 	android:exported
-		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:13:13-36
+		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:12:13-41
+		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:14:13-17:29
+ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:15:17-69
+ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/white/Downloads/VC/Android_VideoCompressSDK/exampleapp/src/main/AndroidManifest.xml

@@ -21,7 +21,8 @@
         android:extractNativeLibs="false"
         android:label="Example App"
         android:supportsRtl="true"
-        android:testOnly="true" >
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
         <activity
             android:name="com.example.exampleapp.MainActivity"
             android:exported="true" > <!-- ✅ 添加这一行 -->

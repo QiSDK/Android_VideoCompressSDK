@@ -7,14 +7,43 @@
     android:padding="16dp">
 
     <Button
-        android:id="@+id/compressButton"
+        android:id="@+id/selectImageButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Compress Image" />
+        android:text="选择图片" />
+
+    <Button
+        android:id="@+id/compressImageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="压缩图片"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/selectVideoButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="选择视频"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/compressVideoButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="压缩视频"
+        android:layout_marginTop="10dp"/>
 
     <TextView
-        android:id="@+id/resultText"
+        android:id="@+id/originalSizeText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp" />
+        android:text="原始大小"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/compressedSizeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="压缩后大小"
+        android:layout_marginTop="10dp" />
 </LinearLayout>

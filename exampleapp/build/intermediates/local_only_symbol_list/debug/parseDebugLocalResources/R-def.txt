@@ -1,6 +1,10 @@
 R_DEF: Internal format may change without notice
 local
-id compressButton
-id resultText
+id compressImageButton
+id compressVideoButton
+id compressedSizeText
+id originalSizeText
+id selectImageButton
+id selectVideoButton
 layout activity_main
 string compressor

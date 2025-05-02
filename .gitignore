@@ -2,6 +2,8 @@
 *.apk
 *.ap_
 /build/
+/.idea/
+/.gradle/
 /app/build/
 /exampleapp/build/
 /compressor/build/
