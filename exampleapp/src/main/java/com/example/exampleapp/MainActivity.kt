@@ -75,9 +75,41 @@ class MainActivity : AppCompatActivity() {
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+//        super.onActivityResult(requestCode, resultCode, data)
+//        if (resultCode == Activity.RESULT_OK && data != null) {
+//            selectedUri = data.data
+//        }
+
+
         super.onActivityResult(requestCode, resultCode, data)
+
         if (resultCode == Activity.RESULT_OK && data != null) {
-            selectedUri = data.data
+            val selectedUri = data.data
+            if (selectedUri != null) {
+                when (requestCode) {
+                    REQUEST_CODE_PICK_IMAGE -> {
+                        // 处理图片
+                        val imagePath = getPathFromUri(selectedUri)
+                        // TODO: 显示图片大小
+                    }
+                    REQUEST_CODE_PICK_VIDEO -> {
+                        // 处理视频
+                        val videoPath = getPathFromUri(selectedUri)
+                        // TODO: 显示视频大小
+                    }
+                }
+            }
         }
+    }
+
+    fun Context.getPathFromUri(uri: Uri): String? {
+        val projection = arrayOf(MediaStore.Images.Media.DATA)
+        contentResolver.query(uri, projection, null, null, null)?.use { cursor ->
+            if (cursor.moveToFirst()) {
+                val columnIndex = cursor.getColumnIndexOrThrow(MediaStore.Images.Media.DATA)
+                return cursor.getString(columnIndex)
+            }
+        }
+        return null
     }
 }
