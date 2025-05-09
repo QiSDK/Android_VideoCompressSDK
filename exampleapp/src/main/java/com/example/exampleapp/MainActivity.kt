@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var compressedSizeText: TextView
     private var selectedUri: Uri? = null
     private var isImage = false
+    private val REQUEST_CODE_PICK_IMAGE = 1
+    private val REQUEST_CODE_PICK_VIDEO = 2
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -91,6 +93,7 @@ class MainActivity : AppCompatActivity() {
                         // 处理图片
                         val imagePath = getPathFromUri(selectedUri)
                         // TODO: 显示图片大小
+                        
                     }
                     REQUEST_CODE_PICK_VIDEO -> {
                         // 处理视频
@@ -102,7 +105,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    fun Context.getPathFromUri(uri: Uri): String? {
+    fun getPathFromUri(uri: Uri): String? {
         val projection = arrayOf(MediaStore.Images.Media.DATA)
         contentResolver.query(uri, projection, null, null, null)?.use { cursor ->
             if (cursor.moveToFirst()) {
